@@ -1,0 +1,33 @@
+.firstDiv {
+    margin: 0;
+    padding: 0;
+}
+.fdWrapper{
+    width: 450px;
+    margin: auto;
+}
+.image {
+    width: 450px;
+    height: 300px;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.left{
+    width: 98px;
+    float: left;
+    margin-top: 49px;
+}
+.btn {
+    padding: 5px 25px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.right{
+    width: 165px;
+    float: right;
+}
+.right input{
+    border: none;
+}
